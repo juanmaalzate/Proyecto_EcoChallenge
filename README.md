@@ -44,14 +44,14 @@ Fomentar la educación ambiental mediante la gamificación, enseñando a los ni�
 
 # Capturas del juego
 
-*(Aquí puedes subir imágenes del juego o dejarlas pendientes para más adelante.)*
+*(Pendiente)*
 
 
 
 # Demo funcional
 
 Puedes ver la demostración del juego en este video:
-[Enlace al video o nombre del archivo demo.mp4]
+Pendiente
 
 # Próximas mejoras
 
