@@ -59,8 +59,3 @@ Puedes ver la demostración del juego en este video:
 * Añadir, fondo, colores, sonidos y retroalimentación visual.
 * Guardar los puntajes y mostrar una tabla de resultados.
 
-
-
-
-¿Quieres que te diga luego cómo subir las capturas o el video al repositorio también?
-```
