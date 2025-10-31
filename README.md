@@ -56,6 +56,7 @@ Pendiente
 # Próximas mejoras
 
 * Agregar más tipos de residuos.
-* Añadir, fondo, colores, sonidos y retroalimentación visual.
+* Añadir, fondo, sprites de los elementos (De las canecas, residuos, etc), colores, sonidos y retroalimentación visual.
 * Guardar los puntajes y mostrar una tabla de resultados.
-
+* Diseñar un menu intuitivo y animado donde el usuario pueda registrar un ID o apodo.
+* Despues del usuario registrarse y continuar, añadir retroalimentación, indicaciones o enseñanza sobre el tema propuesto antes de iniciar con el juego.
