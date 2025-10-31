@@ -1,0 +1,7 @@
+[
+  {"nombre": "Cáscara de banano", "categoria": "organicos", "forma": "circulo"},
+  {"nombre": "Papel", "categoria": "reciclables", "forma": "rectangulo"},
+  {"nombre": "Botella plástica", "categoria": "reciclables", "forma": "rombo"},
+  {"nombre": "Envase sucio", "categoria": "no_reciclables", "forma": "triangulo"},
+  {"nombre": "Pila", "categoria": "peligrosos", "forma": "estrella"}
+]
